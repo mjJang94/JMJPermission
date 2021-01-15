@@ -1,6 +1,13 @@
 # JMJPermission (안드로이드 위험 권한 요청 라이브러리)
 
 ### 사용법
+- Manifest.xml
+<pre>
+<code>
+    "android.permission.READ_CONTACTS"
+    "android.permission.CAMERA"
+</code>
+</pre>
 
 - Project Gradle
 <pre>

@@ -4,6 +4,7 @@
 - Manifest.xml
 <pre>
 <code>
+    //필요한 권한 작성
     "android.permission.READ_CONTACTS"
     "android.permission.CAMERA"
 </code>
